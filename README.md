@@ -1,5 +1,6 @@
 # Instructions
-1. Download and put the whole folder in the Launch4j folder.
-2. Put RePair.jar in the DeploymentPipeline folder.
-3. Double click deploy.bat.
-4. RePair.exe will be ready and signed.
+1. Download the whole folder.
+2. Put jdk folder and RePair.jar in the folder.
+3. Edit Win.json to change the jdk path if necessary.
+4. Double click deploy.bat.
+5. The game folder will be ready and signed.
