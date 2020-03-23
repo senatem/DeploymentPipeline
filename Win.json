@@ -1,0 +1,12 @@
+{
+    "platform": "windows64",
+    "jdk": "jdk1.8.0_221",
+    "executable": "RePair",
+    "classpath": ["RePair.jar"],
+	"mainclass": "com.pungo.repairgame.desktop.DesktopLauncher",
+    "vmargs": [
+    	"Xmx1G"
+    ],
+    "minimizejre": "hard",
+    "output": "RepairWin"
+}
